@@ -1,0 +1,4 @@
+/*vscode might get mad, but trust it works. to test, go into className & change font or sum like text-3xl :3*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
